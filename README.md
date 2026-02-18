@@ -1,14 +1,14 @@
-# App Legal Documents
+# Lore Edit Legal Documents
 
-This repository hosts the legal documents for the App mobile application.
+This repository hosts the legal documents for the Lore Edit mobile application.
 
 ## Documents
 
 - [Privacy Policy](https://genevaneva.github.io/merge-public/privacy-policy.html)
 - [Terms of Service](https://genevaneva.github.io/merge-public/terms-of-service.html)
 
-## About App
+## About Lore Edit
 
-App is a relationship tracking app for couples to document and celebrate their experiences together.
+Lore Edit is a relationship tracking app for couples to document and celebrate their experiences together.
 
-**Last Updated:** January 20, 2026
+**Last Updated:** February 18, 2026
