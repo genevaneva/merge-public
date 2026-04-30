@@ -6,6 +6,7 @@ This repository hosts the legal documents for the Amatory mobile application.
 
 - [Privacy Policy](https://genevaneva.github.io/merge-public/privacy-policy.html)
 - [Terms of Service](https://genevaneva.github.io/merge-public/terms-of-service.html)
+- [Account Deletion](https://genevaneva.github.io/merge-public/account-deletion.html)
 
 ## About Amatory
 
